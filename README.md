@@ -3,38 +3,44 @@
 # <Repository Title>
 
 ## Description
-<Program/Library name> is a < program/library/collection of scripts > for < description of what it does and what problem it solves >.
+This repository is a collection of solutions to the age-old problem: "Help, IT is going to delete my old emails!" These solutions were developed by business users across different departments at Michigan Medicine and the University of Michigan. Each solution was initially designed to meet specific department or project requirements, but can be customized to fit other needs. Most of the solutions presented use Microsoft Power Automate, though the same concepts apply to custom scripts or code that uses the Microsoft Graph API or local Outlook storage.
 
 
 
 ## Quick Start Guide
-+ < Short compile/run instructions, without too much detail >
++ Use the folder navigation to browse through the different solutions.
++ Follow the directions in the folder.
++ If it's a Power Automate solution, a .zip file is provided. To use it:
+  + Download a copy of the .zip file
+  + Go to https://make.powerautomate.com and login (MM users: user level-2 email)
+  + Click My Flows on the left menu
+  + In the gray toolbar, click Import and upload the .zip file
+  + When asked, enter your credentials for each connector, and click Import
 
 
 
 ## Documentation
-+ The full documentation is available at: < Link to manual, wiki, full documentation, etc. >
-+ __OR__ Detailed setup and use instructions are available in the companion knowledge base article, [ article_title ]( link ).
-
++ Detailed setup and use instructions are available in each sub-folder (time permitting).
 
 
 
 ## Additional Resources
-+ < Links to study website, related projects, etc. >
++ [How to Send Emails from Outlook to OneNote for Archival and Organization](https://teamdynamix.umich.edu/TDClient/210/DepressionCenter/KB/ArticleDet?ID=13305)
++ [Microsoft API: Outlook mail API](https://learn.microsoft.com/en-us/graph/outlook-mail-concept-overview)
 
 
 
 ## About the Team
-< 1-2 paragraphs about your department, core, lab, study team, class or project. This is your marketing space! >
+The Mobile Technologies Core provides investigators across the University of Michigan the support and guidance needed to utilize mobile technologies and digital mental health measures in their studies. Experienced faculty and staff offer hands-on consultative services to researchers throughout the University – regardless of specialty or research focus.
 
-Learn more at: < link to dept/lab/project website >
+Learn more at: https://depressioncenter.org/mobiletech
 
 
 
 ## Contact
 To get in touch, contact the individual developers in the check-in history.
 
-If you need assistance identifying a contact person, email the project maintainers at: < dept/lab/mcommunity group email address >.
+If you need assistance identifying a contact person, email the project maintainers at: efdc-mobiletech@umich.edu.
 
 
 
@@ -42,19 +48,19 @@ If you need assistance identifying a contact person, email the project maintaine
 #### Contributors:
 + Eisenberg Family Depression Center [(@DepressionCenter)](https://github.com/DepressionCenter/)
 + Gabriel Mongefranco [(@gabrielmongefranco)](https://github.com/gabrielmongefranco)
-+ Name [ @githubusername ]( link to github profile or website )
++ Shelley Boa
++ Jeremy Gluskin
 
 
 
 #### This work is based in part on the following projects, libraries and/or studies:
-+ None
-+ __OR__ < Library or project name > - < link >
++ Microsoft Power Automate
 
 
 
 ## License
 ### Copyright Notice
-Copyright © 2024 The Regents of the University of Michigan
+Copyright © 2025 The Regents of the University of Michigan
 
 
 ### Software and Library License Notice
@@ -80,4 +86,4 @@ If you find this repository, code or paper useful for your research, please cite
 
 ----
 
-Copyright © 2024 The Regents of the University of Michigan
+Copyright © 2025 The Regents of the University of Michigan
