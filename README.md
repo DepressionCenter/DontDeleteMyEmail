@@ -31,9 +31,9 @@ This repository is a collection of solutions to the age-old problem: "Help, IT i
 
 
 ## About the Team
-The Mobile Technologies Core provides investigators across the University of Michigan the support and guidance needed to utilize mobile technologies and digital mental health measures in their studies. Experienced faculty and staff offer hands-on consultative services to researchers throughout the University – regardless of specialty or research focus.
+The Mobile Technologies Core provides investigators across the University of Michigan the support and guidance needed to utilize mobile technologies and digital mental health measures in their studies. Experienced faculty and staff offer hands-on consultative services to researchers throughout the University – regardless of specialty or research focus. Learn more at: https://depressioncenter.org/mobiletech.
 
-Learn more at: https://depressioncenter.org/mobiletech
+This repository is a partnership with Michigan Medicine's MS365 Community of Practice, specifically the Power Automate Pioneers group. Learn more at: https://umhealth.sharepoint.com/sites/M365Community.
 
 
 
