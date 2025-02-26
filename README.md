@@ -48,7 +48,7 @@ If you need assistance identifying a contact person, email the project maintaine
 #### Contributors:
 + Eisenberg Family Depression Center [(@DepressionCenter)](https://github.com/DepressionCenter/)
 + Gabriel Mongefranco [(@gabrielmongefranco)](https://github.com/gabrielmongefranco)
-+ Shelley Boa
++ Shelley Boa [(@blondilox-ai)](https://github.com/blondilox-ai)
 + Jeremy Gluskin
 
 
