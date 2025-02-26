@@ -5,7 +5,7 @@
 ## Description
 This repository is a collection of PowerAutomate workflows to backup emails. These solutions were developed by business users across different departments at Michigan Medicine and the University of Michigan. Each solution was initially designed to meet specific department or project requirements, but can be customized to fit other needs.
 
-![image](https://github.com/user-attachments/assets/00193e61-c4d7-4698-bbed-c5f67c5d6992)
+![image](https://github.com/user-attachments/assets/f8812feb-d5e6-4d52-88fa-a0a362b06561)
 
 
 
