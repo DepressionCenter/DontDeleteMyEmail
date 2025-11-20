@@ -8,11 +8,12 @@ This PowerAutomate flow sends emails to OneDrive when you flag them for follow u
 
 
 ## Installation
++ Create two directories in your OneDrive: __Attachments__ and __EmailArchive__
 + Download EMAIL_LOG.xlsx
 + Move the downloaded spreadsheet from your Downloads folder to OneDrive -> Attachments
 + Download the flow (.zip) file (keep it in your Downloads folder)
 + Follow the instructions in the main README file to install this flow
-+ Once installed, you must edit the flow and change a few settings
++ Once installed, you must edit the flow and change a few settings including the path to your onedrive folders and inbox.
 
 
 
