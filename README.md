@@ -1,6 +1,6 @@
 ![Depression Center Logo](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "depressioncenter.org")
 
-# <Repository Title>
+# Don't Delete My Email!
 
 ## Description
 This repository is a collection of PowerAutomate workflows to backup emails. These solutions were developed by business users across different departments at Michigan Medicine and the University of Michigan. Each solution was initially designed to meet specific department or project requirements, but can be customized to fit other needs.
