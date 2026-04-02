@@ -1,6 +1,6 @@
 ![Depression Center Logo](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "depressioncenter.org")
 
-# Don't Delete My Email!
+# Don't Delete My Email!™
 
 ## Description
 This repository is a collection of PowerAutomate workflows to backup emails. These solutions were developed by business users across different departments at Michigan Medicine and the University of Michigan. Each solution was initially designed to meet specific department or project requirements, but can be customized to fit other needs.
@@ -75,7 +75,8 @@ If you need assistance identifying a contact person, email the project maintaine
 
 ## License
 ### Copyright Notice
-Copyright © 2025 The Regents of the University of Michigan
+DontDeleteMyEmail™ and "Don't Delete My Email!"™ are trademarks of The Regents of the University of Michigan.
+Copyright © 2025-2026 The Regents of the University of Michigan.
 
 
 ### Software and Library License Notice
@@ -101,4 +102,4 @@ If you find this repository, code or paper useful for your research, please cite
 
 ----
 
-Copyright © 2025 The Regents of the University of Michigan
+Copyright © 2025-2026 The Regents of the University of Michigan
