@@ -3,7 +3,9 @@
 # Don't Delete My Email!™
 
 ## Description
-This repository is a collection of PowerAutomate workflows to backup emails. These solutions were developed by business users across different departments at Michigan Medicine and the University of Michigan. Each solution was initially designed to meet specific department or project requirements, but can be customized to fit other needs.
+Don't Delete My Email!™ (DontDeleteMyEmail™) is an open-source collection of Microsoft Power Automate workflows for backing up and archiving email in Microsoft 365. The flows were created by business users at Michigan Medicine and the University of Michigan to preserve messages before retention or deletion policies remove them.
+
+Each workflow addresses a real departmental use case and can be copied and customized for other teams. Review the included solution instructions, choose the flow closest to your environment, and adapt its connections, folders, and retention logic.
 
 ![image](https://github.com/user-attachments/assets/f8812feb-d5e6-4d52-88fa-a0a362b06561)
 
